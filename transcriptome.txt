@@ -3,3 +3,4 @@ Step 2: Assemble transcripts with cufflinks
 Step 3-4: Final transcriptome assembly with cuffmerge
 Step 5: Compute differential expression with cuffdiff
 Step 6-18: Plot expression data with cummerbund
+step 7
